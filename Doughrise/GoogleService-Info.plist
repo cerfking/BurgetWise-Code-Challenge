@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC4UsoWhIyD4_YffSFLvjBRGDnmngDErTw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>929705816744</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cerf.Doughrise</string>
+	<key>PROJECT_ID</key>
+	<string>doughrise-c0591</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doughrise-c0591.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:929705816744:ios:e215e65c828126df00889d</string>
+</dict>
+</plist>
